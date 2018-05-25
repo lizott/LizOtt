@@ -9,10 +9,11 @@ h1 {
 h2 {
   width:100%;
   font-size:3vw;
+  transform:rotate(90deg);
 }
 
 p {
-  width:50%;
+  width:33.33%;
   font-size:16px;
 }
 
